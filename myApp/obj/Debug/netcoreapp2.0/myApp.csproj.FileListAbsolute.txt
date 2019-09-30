@@ -1,0 +1,11 @@
+F:\Code\UnityProj\Rogue Like Game\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+F:\Code\UnityProj\Rogue Like Game\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+F:\Code\UnityProj\Rogue Like Game\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+F:\Code\UnityProj\Rogue Like Game\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+F:\Code\UnityProj\Rogue Like Game\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+F:\Code\UnityProj\Rogue Like Game\myApp\obj\Debug\netcoreapp2.0\myApp.csprojAssemblyReference.cache
+F:\Code\UnityProj\Rogue Like Game\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+F:\Code\UnityProj\Rogue Like Game\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+F:\Code\UnityProj\Rogue Like Game\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+F:\Code\UnityProj\Rogue Like Game\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+F:\Code\UnityProj\Rogue Like Game\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
